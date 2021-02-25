@@ -11,13 +11,13 @@
 
 
 <?php
-$username = "root";
-$password = "";
-$database = "orders";
+$username = "ID295201_aa";
+$password = "1aaaaaaa";
+$database = "ID295201_aa";
 //$username = "alex";
 //$password = "Icbr85p7BvRAQfOgwzkEqr6Gi9RDV6YYrGJwjHjbZSg6sPqzjAikojT0dwEfn3Cu";
 //$database = "kwork_script";
-$mysqli = new mysqli("localhost", $username, $password, $database);
+$mysqli = new mysqli("ID295201_aa.db.webhosting.be", $username, $password, $database);
 
 
 if (isset($_POST['add'])) {
