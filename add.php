@@ -6,7 +6,7 @@
 </head
 
 <body>
-<a href="orders.php">Orders</a>
+<a href="index.php">Orders</a>
 <br>
 
 
